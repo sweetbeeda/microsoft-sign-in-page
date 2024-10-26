@@ -113,3 +113,6 @@ input {
 .pa{
     padding-bottom: 2px;
 }
+span{
+    text-transform: none;
+}
